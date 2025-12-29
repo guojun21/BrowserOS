@@ -18,3 +18,9 @@
 nxtscape-cli-access.json
 gclient.json
 .env
+node_modules/
+build/
+*.log
+*.pyc
+.vscode/
+.idea/
